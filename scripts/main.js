@@ -1,0 +1,1 @@
+alert("Welcome to the smelly fish shop!");
